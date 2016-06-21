@@ -19,7 +19,7 @@ Tested for Qt Creator 4.0+
   <style name="Text" foreground="#e0e2e4" background="#232a2d"/>
   <style name="Link" foreground="#0055ff"/>
   <style name="Selection" background="#404e51"/>
-  <style name="LineNumber" foreground="#81969a" background="#232323"/>
+  <style name="LineNumber" foreground="#81969a" background="#2b3337"/>
   <style name="SearchResult" background="#a0a0c8"/>
   <style name="SearchScope" background="#222200"/>
   <style name="Parentheses" foreground="#f3db2e"/>
@@ -57,7 +57,7 @@ Tested for Qt Creator 4.0+
   <style name="JsGlobalVar" foreground="#8888ff" italic="true"/>
   <style name="QmlStateName" italic="true"/>
   <style name="Binding" foreground="#ff5555"/>
-  <style name="DisabledCode" foreground="#777777" background="#222222"/>
+  <style name="DisabledCode" foreground="#777777" background="#232a2d"/>
   <style name="AddedLine" foreground="#55ffff"/>
   <style name="RemovedLine" foreground="#ff5555"/>
   <style name="DiffFile" foreground="#55ff55"/>
