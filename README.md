@@ -4,18 +4,18 @@ Tested for Qt Creator 4.0+
 
 ## How to install
 
-1. Create the `dark_copy.xml` file on the path `%APPDATA%\QtProject\qtcreator\styles`.
-2. Copy contents into the `dark_copy.xml`.
+1. Create the `obsidian.xml` file on the path `%APPDATA%\QtProject\qtcreator\styles`.
+2. Copy contents into the `obsidian.xml`.
 3. Run Qt Creator, open Tools -> Options dialog, select Environment section, Interface tab.
 4. Change Theme to 'Dark', press OK, and restart Qt Creator.
 5. Open Tools -> Options dialog, select Text Editor section, Font & Colors tab.
-6. Change Color Scheme to 'Dark (my)', press OK.
+6. Change Color Scheme to 'Obsidian', press OK.
 
-## `dark_copy.xml` contents
+## `obsidian.xml` contents
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Dark (my)">
+<style-scheme version="1.0" name="Obsidian">
   <style name="Text" foreground="#e0e2e4" background="#232a2d"/>
   <style name="Link" foreground="#0055ff"/>
   <style name="Selection" background="#404e51"/>
